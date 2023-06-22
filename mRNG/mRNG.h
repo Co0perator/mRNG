@@ -1,7 +1,7 @@
 /************************************************************************    
     This software can be used to generate pseudo-random numbers
     
-    Copyright (C) 2021  Miles Potter
+    Copyright (C) 2021-2023  Miles Potter
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
